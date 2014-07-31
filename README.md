@@ -1,0 +1,3 @@
+stockVis
+========
+Sample Shiny App
